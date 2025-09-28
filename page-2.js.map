@@ -1,1 +1,1 @@
-{"version":3,"file":"page-2.js","sources":[],"sourcesContent":[],"names":[],"mappings":""}
+{"version":3,"file":"page-2.js","sources":["../src/js/page-2.js"],"sourcesContent":["import add from './helper';\n\nconsole.log('add:', add);\nconsole.log(add(1, 12));\n"],"names":["add"],"mappings":"oFAEA,QAAQ,IAAI,OAAQA,CAAG,EACvB,QAAQ,IAAIA,EAAI,EAAG,EAAE,CAAC"}
